@@ -1,4 +1,0 @@
-Data for this instance uses aircraft and layout from http://www.asap.cs.nott.ac.uk/external/atr/benchmarks/data/groundMovement/MAN_OSM_Benchmark_20111029_GM.txt See http://www.asap.cs.nott.ac.uk/external/atr/benchmarks/index.shtml for information about the format.
-The following aircraft ID constitute this instance: 
-
-258, 259, 260, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283 
