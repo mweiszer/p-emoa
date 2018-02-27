@@ -1,0 +1,4 @@
+Data for this instance uses aircraft and layout from http://www.asap.cs.nott.ac.uk/external/atr/benchmarks/data/groundMovement/MAN_OSM_Benchmark_20111029_GM.txt See http://www.asap.cs.nott.ac.uk/external/atr/benchmarks/index.shtml for information about the format.
+The following aircraft ID constitute this instance: 
+
+1832, 1833, 1834, 1835, 1836, 1837, 1838, 1839, 1840, 1841, 1842, 1843, 1844, 1845, 1846, 1847, 1848, 1849, 1850, 1851, 1852
