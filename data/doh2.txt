@@ -1,3 +1,5 @@
+%%%%%% This data is partly derived from OpenStreetmap, and is copyright OpenStreetMapContributors. %%%%%
+%%%%%% It is made available under the Open Database Licence. For more information, see http://www.openstreetmap.org/copyright %%%%%%%
 %See http://www.asap.cs.nott.ac.uk/external/atr/benchmarks/index.shtml for information about the format.
 
 
